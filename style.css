@@ -39,7 +39,7 @@ section{
     display: flex;
     justify-content: center;
     flex-direction: column;
-    background-color: aqua;
+    background-color: #416271;
 }
 
 .home:before{
